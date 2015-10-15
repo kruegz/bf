@@ -3,5 +3,5 @@
 Brainfuck interpreter in C.
 
 ## Usage: 
-  './bf filename'
+  `./bf filename`
   filename: A text file containing Brainfuck code.
